@@ -8,7 +8,7 @@
 
 🌱 Me gusta aprender cosas nuevas
 
-📫 Contacto: tucorreo@gmail.com
+📫 Contacto: victortercero024@gmail.com
 
 ## Tecnologías
 
