@@ -2,13 +2,13 @@
 
 # Hola, soy Víctor 👋
 
-👨‍💻 Estudiante de Ingeniería en Computación en la UTH
+☕ Estudiante de Ingeniería en Computación en la UTH
 
-🚀 Busco mi primer empleo como desarrollador de software
+🌴 Busco mi primer empleo como desarrollador de software
 
-🌱 Me gusta aprender cosas nuevas
+🎧 Me gusta aprender cosas nuevas
 
-📫 Contacto: victortercero024@gmail.com
+💌 Contacto: victortercero024@gmail.com
 
 ## Tecnologías
 
