@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=V%C3%ADctor&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software&descSize=22&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Desarrollador%20de%20Software&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hola%2C+soy+V%C3%ADctor;Java+y+Spring+Boot;APIs+REST+con+PostgreSQL;Siempre+aprendiendo+algo+nuevo" />
 
