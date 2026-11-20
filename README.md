@@ -6,7 +6,7 @@
 
 </div>
 
-☕ Computer Engineering student at UTH
+☕ Computer Engineering student
 
 🌴 Looking for my first job as a software developer
 
