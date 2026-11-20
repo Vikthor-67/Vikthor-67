@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" />
 
-<!--
-**Vikthor-67/Vikthor-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Víctor 👋
 
-Here are some ideas to get you started:
+👨‍💻 Estudiante de Ingeniería en Computación en la UTH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Busco mi primer empleo como desarrollador de software
+
+🌱 Me gusta aprender cosas nuevas
+
+📫 Contacto: tucorreo@gmail.com
+
+## Tecnologías
+
+<img src="https://skillicons.dev/icons?i=java,ts,py,js,html,postgres,mongodb" />
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
