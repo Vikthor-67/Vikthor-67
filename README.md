@@ -2,7 +2,7 @@
 
 # Hola, soy Víctor 👋
 
-☕ Estudiante de Ingeniería en Computación en la UTH
+☕ Estudiante de Ingeniería en Computación
 
 🌴 Busco mi primer empleo como desarrollador de software
 
