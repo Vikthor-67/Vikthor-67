@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Desarrollador%20de%20Software&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Software%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hola%2C+soy+V%C3%ADctor;Java+y+Spring+Boot;APIs+REST+con+PostgreSQL;Siempre+aprendiendo+algo+nuevo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+V%C3%ADctor;Java+and+Spring+Boot;REST+APIs+with+PostgreSQL;Always+learning+something+new" />
 
 </div>
 
-☕ Estudiante de Ingeniería en Computación en la UTH
+☕ Computer Engineering student at UTH
 
-🌴 Busco mi primer empleo como desarrollador de software
+🌴 Looking for my first job as a software developer
 
-🎧 Me gusta aprender cosas nuevas
+🎧 I love learning new things
 
-💌 Contacto: victortercero024@gmail.com
+💌 Contact: victortercero024@gmail.com
 
-## Tecnologías
+## Technologies
 
 <img src="https://skillicons.dev/icons?i=java,ts,py,js,html,postgres,mongodb" />
 
